@@ -9,7 +9,7 @@
 ### Strain rate sensitivity
 TBA
 ### Creep analysis
-TBA
+$$\begin{matrix} a & b \\ c & d \end{matrix}
 
 ## Spatial analysis
 In this section, 2D mapping is described.  
