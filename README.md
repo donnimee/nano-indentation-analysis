@@ -23,8 +23,9 @@ In this section, 2D mapping is described.
 TBA
 
 1. 첫번째
-2. 두번째
+2. 두번째  
 
+# Reference
 [1] Lund A.C. et al. Appl. Phys. Lett., 85 (2004), p. 1362  
 [2] Schuh C.A. and Nieh T.G. Acta Mater., 51 (2003), p. 87  
 [3] Jang J.I. et al. Acta Mater., 53 (2005), p. 1759
