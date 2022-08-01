@@ -5,9 +5,9 @@
 ## Time-dependent Analysis
 * Graph
 ![image](https://user-images.githubusercontent.com/109510408/182060071-ef70b881-0c57-44b8-be4b-fa458f524dd4.png)
-(a) Dislocation activity is detected during a shallow indentation into single-crystal Pt
-(b) Shear localization into 'shear bands' is measured in a Pd-based amorphous alloy
-(c) A phase transformation with a significant volume increase is detected during unloading of an indentation on Si
+(a) Dislocation activity is detected during a shallow indentation into single-crystal Pt  
+(b) Shear localization into 'shear bands' is measured in a Pd-based amorphous alloy  
+(c) A phase transformation with a significant volume increase is detected during unloading of an indentation on Si  
 
 * 두번째 리스트
 
